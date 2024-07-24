@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website. It s
 ## Technologies Used
 - HTML5
 - CSS3 (Tailwind CSS)
-- JavaScript
+- JavaScript (React)
 
 ## Features
 - Responsive design
