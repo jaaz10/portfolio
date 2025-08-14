@@ -262,7 +262,7 @@ export default async function Home() {
       <Container className="mt-16">
         <div className="max-w-4xl">
           <h1 className="text-5xl font-bold tracking-tight text-zinc-800 sm:text-6xl dark:text-zinc-100">
-            Hi, I'm <span className="text-teal-600 dark:text-teal-400">Jaaz</span>
+            Hi, I&apos;m <span className="text-teal-600 dark:text-teal-400">Jaaz</span>
           </h1>
           <p className="mt-8 text-xl text-zinc-600 dark:text-zinc-400 leading-relaxed">
             IT professional by day, CS student by night. Building things that matter and learning along the way.
@@ -335,7 +335,7 @@ export default async function Home() {
               Featured Projects
             </h2>
             <p className="mt-4 text-lg text-zinc-600 dark:text-zinc-400">
-              A selection of projects I've worked on recently.
+              A selection of projects I&apos;ve worked on recently.
             </p>
           </div>
 
